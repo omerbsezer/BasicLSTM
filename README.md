@@ -7,9 +7,12 @@
 
 ## LSTM Cell
 
+<img width="886" alt="lstm_cell" src="https://user-images.githubusercontent.com/10358317/44312843-34a8bc80-a407-11e8-96c3-cc2bc07f1500.png">
+
 ## LSTM Forward Pass
 
-## LSTM Cell Backward
+<img width="860" alt="lstm_fw" src="https://user-images.githubusercontent.com/10358317/44312846-3a060700-a407-11e8-878e-f1ce14cc98b4.png">
 
 ## Reference
 
+* Andrew Ng, Sequential Models Course, Deep Learning Specialization
